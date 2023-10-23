@@ -1,0 +1,213 @@
+body{
+  width: 100%;
+}
+a{
+  text-decoration: none;
+  color: rgb(143, 143, 143);
+}
+.head{
+  padding-left: 170px;
+  font-size: 15px;
+  text-decoration: none;
+  text-shadow: 0px 0px 1px rgb(122, 122, 122);
+  background-color: rgba(237, 237, 237, 0.874);
+}
+.enter{
+  padding-left: 100px;
+}
+.icons{
+  list-style-type: none;
+  display: flex;
+  width: 1100px;
+  margin-left: 10px;
+  justify-content: space-evenly;
+}
+.phones{
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  width: 1200px;
+  margin-left: 100px;
+  padding: 25px;
+}
+figuare{
+  margin-left: 7px;
+}
+.ip11{
+  font-size: 24px;
+  text-align: center;
+  padding: 25px;
+  margin-bottom: 100px;
+  background-color: rgba(237, 237, 237, 0.874);
+}
+.ip11 p{
+  margin: 0px;
+}
+.shop{
+  color: rgb(65, 65, 255);
+}
+.color_phones{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 400px;
+  padding-bottom: 100px;
+}
+.i14{
+  height: 300px;width: 600px;
+
+  text-align: center;
+}
+.i14 h1{
+  font-size: 55px;
+}
+.i14 p{
+  font-size: 25px;
+}
+.learn{
+  color: rgb(65, 65, 255);
+  font-size: 20px;
+}
+.learn:hover{
+  text-decoration: underline;
+}
+sup{
+  font-size: 15px;
+}
+.buy{
+  height: 35px; width: 65px;
+  border-radius: 20px;
+  border: none;
+  background-color: rgb(65, 65, 255);
+  color: white;
+  font-size: 19px;
+  margin-bottom: 15px;
+}
+.color_p{
+  margin-left:-125px;
+  object-fit: cover;
+}
+.black{
+  display:flex ;
+  flex-direction: column ;
+  justify-content: center;
+  padding-left: 400px;
+  padding-bottom: 100px;
+  background-color: black;
+  margin-bottom: 50px;
+}
+.black div{
+  color: white;
+}
+.power,.price{
+  font-size: 40px;
+  margin: 0px;
+  color: rgb(48, 48, 254);
+}
+.price{
+  margin-left: 10px;
+}
+.f429{
+  font-size: 25px;
+}
+.ise{
+  text-align: center;
+  padding-top: 150px;
+}
+.i3{
+  display: flex;
+  justify-content: center;
+}
+.spe{
+  display: flex;
+  width: 1200px;
+  justify-content: space-between;
+  text-align: center;
+  margin: 150px;
+  margin-bottom: 30px;
+}
+.comp{
+  text-align: center;
+  margin-bottom: 80px;
+}
+.ways{
+  text-align: center;
+  font-size: 80px;
+}
+.ip3{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 50px; margin-bottom: 50px;
+}
+.ipro{
+  width: 400px;
+  font-size: 22px;
+  margin: 20px;
+}
+pre{
+  font-size: 12px;
+  font-family: sans-serif;
+}
+.why{
+  font-size: 30px;
+  height: 500px; width: 100%;
+  padding-top: 100px;
+  text-align: center;
+  background-image: url("https://www.apple.com/v/iphone/home/bo/images/overview/retail/why_apple__ezn1ktvka6oi_large.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.why p{
+  margin: 0px;
+}
+.why h2,.magic h1{
+  margin: 8px;
+}
+.fea{
+  font-size: 60px;
+  text-align: center  ;
+}
+.safe{
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+}
+.meg,.tag{
+  font-size: 25px;
+  text-align: center;
+  padding-right: 100px;
+  padding: 60px;
+}
+.meg p,.tag p,.magic p{
+  margin: 5px;
+  
+}
+.air{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+.tag{
+  text-align: center;
+  font-size: 25px;
+}
+.magic{
+  text-align: center;
+  font-size: 25px;
+  background-image: url("https://www.apple.com/v/iphone/home/bo/images/overview/accessories/airpods-pro-fall-22/airpods__eb24cvhoe26a_large.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+  height: 640px;
+  padding-top: 80px;
+}
+.family{
+  margin: 35px;
+}
+.footer{
+  margin: 25px;
+  display: flex;
+  justify-content: center;
+  
+}
